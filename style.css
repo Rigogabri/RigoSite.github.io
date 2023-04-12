@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Inter:wght@500&family=Merriweather&display=swap');
+
+body {
+    background: url(./Images/Image.jpg) center/cover;
+    min-height: 100vi;
+}
+
+.Carré a {
+    font-family: 'Alkatra', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+font-size: 3vh;
+color: white;
+text-transform: uppercase;
+text-decoration: none;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+color: white;
+text-shadow: 3px -2px 7px black;
+}
+
+main {
+    height: 600px;
+    background: gray;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    text-shadow: 1px -2px 5px black;
+    color: #afe9e9;
+    border-style: groove;
+    background: url(./Images/Rigogabri.jpg) center/cover;
+}    
+
+.Carré li {
+    margin: 40px;
+    padding: 0px;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    text-transform: uppercase;
+    font-size: 3vh;
+    color: aliceblue;
+    display : inline-block;
+    text-shadow: 3px -2px 6px black;
+}
+
+.Carré h3 {
+    height: 85px;
+    margin: 5vh;
+    padding: 2vh;
+    font-size: 4.5vh;
+    text-shadow: 0 0 7px black;
+}
+
+.Texte01 h1 {
+    margin: 10vh;
+}
+
+Video {
+    height: 470px;
+    padding: 0;
+    margin: 300px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 0 0 20px black;
+    border-style: inset;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}     
+
+.Texte02 h1 {
+
+}
